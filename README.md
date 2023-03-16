@@ -1,5 +1,6 @@
 # stats220_demo
 
+##Projects
 This is my demo repo for STATS 220. 
 
 *I will use this for demonstrating various STATS 220 related teaching things.*
